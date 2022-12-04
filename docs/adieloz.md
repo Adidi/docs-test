@@ -1,4 +1,5 @@
 ---
+sidebar_position: 2
 title: adieloz
 sidebar_label: this is a new title for the docs
 ---

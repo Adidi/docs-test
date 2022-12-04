@@ -1,5 +1,7 @@
 ---
 sidebar_position: 6
+title: avivit bar zohar
+sidebar_label: this is a new title for the docs
 ---
 
 # Congratulations!
