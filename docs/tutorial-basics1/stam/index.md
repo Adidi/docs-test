@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
 title: title of category
-sidebar_title: sidebartitush
+sidebar_label: sidebartitush
 ---
 a﻿sfassafsafsa
