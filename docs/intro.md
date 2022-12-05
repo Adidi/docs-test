@@ -22,7 +22,7 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 
 Generate a new Docusaurus site using the **classic template**.
 
-The classic template will automatically be added to your project after you run the command:
+The classic template will automatically be added to your project after you run the command:Fca
 
 ```bash
 npm init docusaurus@latest my-website classic
