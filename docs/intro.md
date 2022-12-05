@@ -1,10 +1,11 @@
 ---
 sidebar_position: 1
+title: stamstami
 ---
 
 # Tutorial Intro
 
-Let' 111111 discover **Docusaurus in less than 5 minutes**.
+Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
 
