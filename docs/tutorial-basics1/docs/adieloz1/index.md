@@ -1,5 +1,4 @@
 ---
-id: "adieloz"
 sidebar_position: 11
 title: "11"
 ---
